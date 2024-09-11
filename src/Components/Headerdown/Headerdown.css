@@ -1,0 +1,44 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+    /* margin-top: 10px; */
+    /* align-items: center; */
+    /* margin-bottom: 10px; */
+    /* background-color: aqua; */
+    background-color: white;
+    
+}
+
+.headerdown{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-around; */
+    align-items: center;
+    gap: 10px;
+}
+
+.options{
+    display: flex;
+    gap: 14px;
+    align-items: center;
+    
+}
+
+.icon{
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: white;
+    
+}
+
+#ic{
+    width: 30px;
+    height: 20px;
+}
+
+#folder{
+
+    color:  rgb(180, 30, 55);
+}
+

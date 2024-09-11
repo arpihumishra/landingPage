@@ -1,0 +1,28 @@
+.uppercard{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+
+   
+}
+
+#icon6{
+    height: 30px;
+    border: 2px solid white;
+    padding: 7px;
+    border-radius: 25px;
+}
+
+.card{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+    /* border: 1px solid black; */
+    color: white;
+}
+
+.lowercard{
+    text-align: justify;
+}

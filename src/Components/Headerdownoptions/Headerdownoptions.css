@@ -1,0 +1,16 @@
+.opt:hover{
+    background-color:  rgb(254, 235, 107);
+    width: max-content;
+   cursor: pointer;
+   
+   
+}
+
+.opt{
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    /* justify-content: center; */
+   
+}

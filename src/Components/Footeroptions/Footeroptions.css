@@ -1,0 +1,38 @@
+.footeroptions2{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    background-color: rgb(246, 242, 249);
+    width: 75%;
+    position: relative;
+    left: 70px;
+    bottom: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+
+
+
+}
+
+#icon1{
+    /* border: 2px solid black; */
+    border-radius: 50%;
+    background: linear-gradient(to right, #ff6600ba,rgb(240, 5, 111));
+    background: linear-gradient(to left, #ff5ffc, #fe7bea,);
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footeroptions2 h6{
+   font-size: small;
+   font-weight: lighter;
+}
+
+.footeroptions3 img,.images{
+    height: 250px;
+    width: 280px;
+    /* background-color: aqua; */
+}
